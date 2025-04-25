@@ -1,0 +1,3 @@
+The database is SQLite, which is include in this repo. 
+The Allow Origins is all
+The hosting port of backend is 5244, edit it in launchsettings.json if you want
